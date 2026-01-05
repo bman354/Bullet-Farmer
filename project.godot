@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="Bullet Farmer"
+run/main_scene="uid://byymv6j432knw"
 config/features=PackedStringArray("4.5", "Forward Plus")
 config/icon="res://icon.svg"
 
